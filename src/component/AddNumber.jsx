@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 
+
 export default class AddNumber extends Component {
-    state = {size:1}
+    state = {size:1};
     render() {
         return (
             <div>
